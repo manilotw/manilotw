@@ -1,10 +1,10 @@
-## Привет 👋
+## Привет, я [Амиржан АЛбариев](https://github.com/manilotw) 👋
 
-Меня зовут `Албариев Амиржан`, я 2006 года рождения и на данный момент являюсь `Junior Full Stack` разработчиком, на данный момент прохожу обучающий курс/стажировку в [Devman](https://dvmn.org/) и являюсь студентом `Sakarya Uygulamalı Bilimler Üniversitesi`.
+Я 2006 года рождения и на данный момент являюсь `Junior Full Stack` разработчиком, на данный момент прохожу обучающий курс/стажировку в [Devman](https://dvmn.org/) и являюсь студентом `Sakarya Uygulamalı Bilimler Üniversitesi`.
 
 Все мои работы опубликованы и представлены как портфолию.
 
-## Hello 👋
+## Hello, i'm [Amirzhan Albariyev](https://github.com/manilotw) 👋
 
 My name is `Albariyev Amirzhan`. I was born in 2006, and I am currently a `Junior Full Stack` developer. I am enrolled in a training course/internship at [Devman](https://dvmn.org/) and am also a student at `Sakarya University of Applied Sciences`.
 
