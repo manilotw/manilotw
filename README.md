@@ -6,7 +6,7 @@
 
 ## Hello 👋
 
-My name is `Albariev Amirzhan`. I was born in 2006, and I am currently a `Junior Full Stack` developer. I am enrolled in a training course/internship at [Devman](https://dvmn.org/) and am also a student at `Sakarya University of Applied Sciences`.
+My name is `Albariyev Amirzhan`. I was born in 2006, and I am currently a `Junior Full Stack` developer. I am enrolled in a training course/internship at [Devman](https://dvmn.org/) and am also a student at `Sakarya University of Applied Sciences`.
 
 All my work is published and presented as a portfolio.
 
