@@ -1,7 +1,5 @@
 ## Привет, я [Амиржан Албариев](https://github.com/manilotw) 👋
 
-`Junior Backend` разработчик 📈
-
 Все мои работы опубликованы и представлены как портфолию 🧑‍💻
 
 ### Мой стек технологий
@@ -16,8 +14,6 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-333?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
 
 ## Hello, i'm [Amirzhan Albariyev](https://github.com/manilotw) 👋
-
-`Junior Backend` developer 📈
 
 All my work is published and presented as a portfolio 🧑‍💻
 
